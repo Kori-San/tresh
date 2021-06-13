@@ -43,3 +43,6 @@ Voici les différentes améliorations que j'aurais pu mettre :
 - Rajouté un mode veille à l'aide d'un bouton et/ou d'un accélérometre (Secouez pour réveiller l'appareil)
 - Rajouté des valeurs plus "scientifique" dans un menu alternatif accesible avec un bouton afin d'aider à trouver et déboguer le circuit électronique (Intensité, Courant, Puissance, ect..)
 - Rajouté un menu qui permet de changer l'intensité qui sort de la powerbank afin de gerer l'intensité de la lampe.
+
+## Travail bonus
+En plus du code que j'ai fait j'ai aider à l'élaboration de différents produits créatif concernant le Projet Ayyur, comme le nom Ayyur, le Logo du Projet et du Produit de mon groupe et le poster du Projet.
